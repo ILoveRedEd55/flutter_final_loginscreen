@@ -4,4 +4,4 @@ A Final Project Requirement for our sucject CC206 (Applications Development and 
 Members:
 Leagogo, Nezel || Millares, Francine Anne || Soldevilla, Francis Rey
 
-![Alt text](C:\Users\asus\Downloads\Screen.jpg)
+![Alt text](https://ibb.co/ZVB1jXQ)
