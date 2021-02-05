@@ -4,4 +4,4 @@ A Final Project Requirement for our sucject CC206 (Applications Development and 
 Members:
 Leagogo, Nezel || Millares, Francine Anne || Soldevilla, Francis Rey
 
-![Alt text](https://imgur.com/a/qAXYKxS/Screen.jpeg)
+![Alt text](https://github.com/ILoveRedEd55/flutter_final_loginscreen/blob/main/assets/Screen.jpeg)
