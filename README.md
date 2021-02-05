@@ -5,6 +5,7 @@ Members:
 Leagogo, Nezel || Millares, Francine Anne || Soldevilla, Francis Rey
 
 Application's UI Design:
+
 ![Alt text](https://github.com/ILoveRedEd55/flutter_final_loginscreen/blob/main/assets/Screen.jpeg)
 
 The UI of the applications consist of both GIF and Lottie Animations. 
